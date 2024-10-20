@@ -1,0 +1,25 @@
+Assignment 1
+Due: Mon Jan 23, 2023 11:59pmDue: Mon Jan 23, 2023 11:59pm
+Ungraded, 20 Possible Points
+20 Possible Points
+
+Available after Jan 9, 2023 12:00amAvailable after Jan 9, 2023 12:00am
+All assignments are emailed to cislabs18@gmail.com
+
+This Assignment has two parts. Please work on the following requirements given below:
+
+You are required to use basic language constructs including declaring variables, expression, input using Scanner, output using System.out.printf, decision making, looping constructs and methods.
+
+ 
+
+For Part 1:
+
+         Use the following Download followingrequirements to develop this program. -  Pg. 194 Problem 5.22 (Loan Amortization Schedule); Monthly Payment CalculationLinks to an external site.
+
+ 
+
+ 
+
+For Part 2:
+
+Use the following Download following requirements to develop this program. -  Pg. 239 Problem 6.22 (Approximate the square root)

@@ -1,0 +1,94 @@
+Assignment 2
+Due: Mon Feb 6, 2023 11:59pmDue: Mon Feb 6, 2023 11:59pm
+Ungraded, 30 Possible Points
+30 Possible Points
+
+All assignments are emailed to cislabs18@gmail.com
+
+Part 1 - Personal Information Class
+
+Design  a class that hold the personal data: name, address, age and phone number. Write appropriate methods (constructor, getters ad setters. Demonstrate the class by writing a program that creates three instances of the class. You can populate information in each object using Scanner class. Please do not use any personal information as data in the project. 
+ 
+Submit a class diagram, test runs and code (.java file) with your submission. Please create a zip file and submit a single attachment for part 1.
+ 
+Part 2 -  Coin Toss Simulator
+Create a coin toss simulation program. The simulation program should toss coin randomly and track the count of heads or tails.
+ You need to write a program that can perform following operations:
+
+a. Toss a coin randomly.
+
+b. Track the count of heads or tails.
+
+c. Display the results.
+
+Design and Test
+
+Let's decide what classes, methods and variables will be required in this task and their significance:
+Write a class called Coin.
+
+The Coin class should have an Instance variable sideUp. The sideUp field will hold either "heads" or "tails" indicating the side of the coin that is facing up.
+
+The Coin class should have following methods:
+
+A void method named toss, which simulates the tossing of a coin. When the toss method is called, it randomly determines the side of the coin that is facing up ("heads" or "tails") and sets the sideUp field accordingly.
+A no-arg constructor, which randomly determines the side of the coin, that is facing up ("heads" or "tails") and initializes the sideUp field accordingly.
+A method named getSideUp that returns the value of the sideUp field.
+Create a toss method that uses loop to toss the coin 20 times. Each time the coin is tossed, display the side that is facing up. The method should keep count of the number of times heads or tails is facing up and display those values after the loop finishes.
+Write the test program, which has main method and demonstrates the Coin class.
+
+Submit a class diagram, test runs and code (.java file) with your submission. Please create a zip file and submit a single attachment for part 2.
+
+ 
+
+Rubric for Part 1, Part2 (1)
+Rubric for Part 1, Part2 (1)
+Criteria	Ratings	Pts
+No errors, program always works correctly and meets the specification(s)
+view longer description
+4 pts
+Full Marks
+0 pts
+No Marks
+/ 4 pts
+Code could be reused as a whole or each routine could be reused
+view longer description
+4 pts
+Full Marks
+0 pts
+No Marks
+/ 4 pts
+Concepts of creating a Class using instance variables and methods are applied
+view longer description
+14 pts
+Full Marks
+0 pts
+No Marks
+/ 14 pts
+Java coding conventions are followed.
+view longer description
+2 pts
+Full Marks
+0 pts
+No Marks
+/ 2 pts
+Code Readability (as suggested in class)
+view longer description
+2 pts
+Full Marks
+0 pts
+No Marks
+/ 2 pts
+Adequately tested (unique test cases, covering boundary conditions)
+view longer description
+2 pts
+Full Marks
+0 pts
+No Marks
+/ 2 pts
+Test criterion
+view longer description
+2 pts
+Full Marks
+0 pts
+No Marks
+/ 2 pts
