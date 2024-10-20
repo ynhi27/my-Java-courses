@@ -1,0 +1,28 @@
+/*
+Student name: Y Nhi Tran
+Class and Section: CIS 36A - 13Z
+Assignment 4 - Exercise 2
+Due Date: Mon Mar 13, 2023 11:59pm
+Date Submitted: 03/07/2023
+*/
+
+Test run
+
+Name: ABC Ship
+Year built: 1909
+
+Name: Yolanda Ship
+Maximum Passengers: 500
+
+Name: Container Ship
+Cargo Capacity: 300
+
+Name: Alpha Ship
+Year built: 1989
+
+Name: Tea Ship
+Maximum Passengers: 400
+
+Name: Orange Ship
+Cargo Capacity: 380
+

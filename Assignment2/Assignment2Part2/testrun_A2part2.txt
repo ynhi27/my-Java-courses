@@ -1,0 +1,87 @@
+Student name: Y Nhi Tran
+Class and Section: CIS 36A - 13Z
+Assignment 2 - Part 2
+Due Date: Mon Feb 6, 2023 11:59pm
+Date Submitted: 04/02/2023
+
+<Part 2>
+Coin Toss Simulator
+----------------------------------------------------------
+Test run 1
+The coin will flip 20 times.
+#1 toss: head
+#2 toss: tail
+#3 toss: tail
+#4 toss: tail
+#5 toss: tail
+#6 toss: head
+#7 toss: head
+#8 toss: head
+#9 toss: tail
+#10 toss: tail
+#11 toss: tail
+#12 toss: tail
+#13 toss: head
+#14 toss: head
+#15 toss: tail
+#16 toss: head
+#17 toss: tail
+#18 toss: tail
+#19 toss: tail
+#20 toss: tail
+Heads appeared: 7
+Tails appeared: 13
+
+
+
+Test run 2
+The coin will flip 20 times.
+#1 toss: tail
+#2 toss: tail
+#3 toss: head
+#4 toss: head
+#5 toss: tail
+#6 toss: head
+#7 toss: head
+#8 toss: head
+#9 toss: tail
+#10 toss: tail
+#11 toss: tail
+#12 toss: head
+#13 toss: head
+#14 toss: tail
+#15 toss: tail
+#16 toss: tail
+#17 toss: tail
+#18 toss: tail
+#19 toss: head
+#20 toss: tail
+Heads appeared: 8
+Tails appeared: 12
+
+
+
+Test run 3
+The coin will flip 20 times.
+#1 toss: tail
+#2 toss: head
+#3 toss: tail
+#4 toss: head
+#5 toss: head
+#6 toss: tail
+#7 toss: head
+#8 toss: head
+#9 toss: head
+#10 toss: tail
+#11 toss: head
+#12 toss: head
+#13 toss: tail
+#14 toss: head
+#15 toss: head
+#16 toss: tail
+#17 toss: tail
+#18 toss: tail
+#19 toss: head
+#20 toss: tail
+Heads appeared: 11
+Tails appeared: 9

@@ -1,0 +1,112 @@
+/*
+Student name: Y Nhi Tran
+Class and Section: CIS 36A - 13Z
+Assignment 5
+Due Date: Fri Mar 24, 2023 11:59pm
+Date Submitted: 03/21/2023
+*/
+
+Test run 1
+
+Enter the file's name to analyze (no '.txt') or q to quit: 123
+ERROR! 123 is invalid file's name!
+
+Enter the file's name to analyze (no '.txt') or q to quit: daa
+ERROR! daa is invalid file's name!
+
+Enter the file's name to analyze (no '.txt') or q to quit: data
+    Stud      Qu1      Qu2      Qu3      Qu4      Qu5
+    1234       52        7      100       78       34
+    2134       90       36       90       77       30
+    3124      100       45       20       90       70
+    4532       11       17       81       32       77
+    5678       20       12       45       78       34
+    6134       34       80       55       78       45
+    7874       60      100       56       78       78
+    8026       70       10       66       78       56
+    9893       34        9       77       78       20
+    1947       45       40       88       78       55
+    2877       55       50       99       78       80
+    3189       22       70      100       78       77
+    4602       89       50       91       78       60
+    5405       11       11        0       78       10
+    6999        0       98       89       78       20
+
+High Scores   100      100      100       90       80
+Low Scores      0        7        0       32       10
+Average        46.20    42.33    70.47    75.67    49.73
+
+Enter the file's name to analyze (no '.txt') or q to quit: Q
+Exited!
+
+
+______________________________________________________________
+Test run 2
+Enter the file's name to analyze (no '.txt') or q to quit: dat.txt
+ERROR! dat.txt is invalid file's name!
+
+Enter the file's name to analyze (no '.txt') or q to quit: data.txt
+You entered '.txt', please enter again without it!
+
+Enter the file's name to analyze (no '.txt') or q to quit: data
+    Stud      Qu1      Qu2      Qu3      Qu4      Qu5
+    1234       52        7      100       78       34
+    2134       90       36       90       77       30
+    3124      100       45       20       90       70
+    4532       11       17       81       32       77
+    5678       20       12       45       78       34
+    6134       34       80       55       78       45
+    7874       60      100       56       78       78
+    8026       70       10       66       78       56
+    9893       34        9       77       78       20
+    1947       45       40       88       78       55
+    2877       55       50       99       78       80
+    3189       22       70      100       78       77
+    4602       89       50       91       78       60
+    5405       11       11        0       78       10
+    6999        0       98       89       78       20
+
+High Scores   100      100      100       90       80
+Low Scores      0        7        0       32       10
+Average        46.20    42.33    70.47    75.67    49.73
+
+Enter the file's name to analyze (no '.txt') or q to quit: q
+Exited!
+
+
+______________________________________________________________
+Test run 3
+Enter the file's name to analyze (no '.txt') or q to quit: 123
+ERROR! 123 is invalid file's name!
+
+Enter the file's name to analyze (no '.txt') or q to quit: abc.txt
+ERROR! abc.txt is invalid file's name!
+
+Enter the file's name to analyze (no '.txt') or q to quit: data.txt
+You entered '.txt', please enter again without it!
+
+Enter the file's name to analyze (no '.txt') or q to quit: data
+    Stud      Qu1      Qu2      Qu3      Qu4      Qu5
+    1234       52        7      100       78       34
+    2134       90       36       90       77       30
+    3124      100       45       20       90       70
+    4532       11       17       81       32       77
+    5678       20       12       45       78       34
+    6134       34       80       55       78       45
+    7874       60      100       56       78       78
+    8026       70       10       66       78       56
+    9893       34        9       77       78       20
+    1947       45       40       88       78       55
+    2877       55       50       99       78       80
+    3189       22       70      100       78       77
+    4602       89       50       91       78       60
+    5405       11       11        0       78       10
+    6999        0       98       89       78       20
+
+High Scores   100      100      100       90       80
+Low Scores      0        7        0       32       10
+Average        46.20    42.33    70.47    75.67    49.73
+
+Enter the file's name to analyze (no '.txt') or q to quit: Q
+Exited!
+

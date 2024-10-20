@@ -1,0 +1,61 @@
+Student name: Y Nhi Tran
+Class and Section: CIS 36A - 13Z
+Assignment 6
+Due Date: Fri Mar 24, 2023 11:59pm
+Date Submitted: 03/23/2023
+*/
+
+Test run 1
+Created file: Report_1234.dat
+Created file: Report_2134.dat
+Created file: Report_3124.dat
+Created file: Report_4532.dat
+Created file: Report_5678.dat
+Created file: Report_6134.dat
+Created file: Report_7874.dat
+Created file: Report_8026.dat
+Created file: Report_9893.dat
+Created file: Report_1947.dat
+Created file: Report_2877.dat
+Created file: Report_3189.dat
+Created file: Report_4602.dat
+Created file: Report_5405.dat
+Created file: Report_6999.dat
+
+
+_____________________________
+Test run 2
+Created file: Report_1234.dat
+Created file: Report_2134.dat
+Created file: Report_3124.dat
+Created file: Report_4532.dat
+Created file: Report_5678.dat
+Created file: Report_6134.dat
+Created file: Report_7874.dat
+Created file: Report_8026.dat
+Created file: Report_9893.dat
+Created file: Report_1947.dat
+Created file: Report_2877.dat
+Created file: Report_3189.dat
+Created file: Report_4602.dat
+Created file: Report_5405.dat
+Created file: Report_6999.dat
+
+
+_____________________________
+Test run 3
+Created file: Report_1234.dat
+Created file: Report_2134.dat
+Created file: Report_3124.dat
+Created file: Report_4532.dat
+Created file: Report_5678.dat
+Created file: Report_6134.dat
+Created file: Report_7874.dat
+Created file: Report_8026.dat
+Created file: Report_9893.dat
+Created file: Report_1947.dat
+Created file: Report_2877.dat
+Created file: Report_3189.dat
+Created file: Report_4602.dat
+Created file: Report_5405.dat
+Created file: Report_6999.dat

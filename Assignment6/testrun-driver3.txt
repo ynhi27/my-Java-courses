@@ -1,0 +1,115 @@
+/*
+Student name: Y Nhi Tran
+Class and Section: CIS 36A - 13Z
+Assignment 6
+Due Date: Fri Mar 24, 2023 11:59pm
+Date Submitted: 03/23/2023
+*/
+
+Test run 1
+Created file: Report_1234.dat
+Created file: Report_2134.dat
+Created file: Report_3124.dat
+Created file: Report_4532.dat
+Created file: Report_5678.dat
+Created file: Report_6134.dat
+Created file: Report_7874.dat
+Created file: Report_8026.dat
+Created file: Report_9893.dat
+Created file: Report_1947.dat
+Created file: Report_2877.dat
+Created file: Report_3189.dat
+Created file: Report_4602.dat
+Created file: Report_5405.dat
+Created file: Report_6999.dat
+
+Enter a SID or q to quit: 6999
+The statistics of class:
+Highest:      100      100      100       90       80
+Lowest:         0        7        0       32       10
+Average:       46.20    42.33    70.47    75.67    49.73
+Scores for 6999: 0 98 89 78 20 
+
+Enter a SID or q to quit: 1234
+The statistics of class:
+Highest:      100      100      100       90       80
+Lowest:         0        7        0       32       10
+Average:       46.20    42.33    70.47    75.67    49.73
+Scores for 1234: 52 7 100 78 34 
+
+Enter a SID or q to quit: abcd
+ERROR! abcd is invalid SID!
+
+Enter a SID or q to quit: -9876
+ERROR! Please delete the minus sign.
+
+
+Enter a SID or q to quit: 9876
+StudentGradingException [error number: 1, error message: java.io.FileNotFoundException: Report_9876.dat (The system cannot find the file specified)
+exception.StudentGradingException
+	at Assignment6/util.FileIO.gradeReader(FileIO.java:110)
+	at Assignment6/Assignment6.StudentAPIImpl.printStatistics(StudentAPIImpl.java:23)
+	at Assignment6/driver.Driver3.main(Driver3.java:89)
+StudentGradingException [error number: 1, error message: java.io.FileNotFoundException: Report_9876.dat (The system cannot find the file specified)
+exception.StudentGradingException
+
+Enter a SID or q to quit: 9893
+The statistics of class:
+Highest:      100      100      100       90       80
+Lowest:         0        7        0       32       10
+Average:       46.20    42.33    70.47    75.67    49.73
+Scores for 9893: 34 9 77 78 20 
+
+Enter a SID or q to quit: q
+Exited!
+
+_________________________________________________________________
+Test run 2 - File data.txt is empty
+
+Enter a SID or q to quit: 1234
+StudentGradingException [error number: 1, error message: java.io.FileNotFoundException: Report_1234.dat (The system cannot find the file specified)
+exception.StudentGradingException
+	at Assignment6/util.FileIO.gradeReader(FileIO.java:110)
+	at Assignment6/Assignment6.StudentAPIImpl.printStatistics(StudentAPIImpl.java:23)
+	at Assignment6/driver.Driver3.main(Driver3.java:89)
+StudentGradingException [error number: 1, error message: java.io.FileNotFoundException: Report_1234.dat (The system cannot find the file specified)
+exception.StudentGradingException
+
+Enter a SID or q to quit: q
+Exited!
+
+
+_________________________________________________________________
+Test run 3 - File data.txt has no data (only 1 title line)
+
+Enter a SID or q to quit: 1234
+StudentGradingException [error number: 1, error message: java.io.FileNotFoundException: Report_1234.dat (The system cannot find the file specified)
+exception.StudentGradingException
+	at Assignment6/util.FileIO.gradeReader(FileIO.java:110)
+	at Assignment6/Assignment6.StudentAPIImpl.printStatistics(StudentAPIImpl.java:23)
+	at Assignment6/driver.Driver3.main(Driver3.java:89)
+StudentGradingException [error number: 1, error message: java.io.FileNotFoundException: Report_1234.dat (The system cannot find the file specified)
+exception.StudentGradingException
+
+Enter a SID or q to quit: 9893
+StudentGradingException [error number: 1, error message: java.io.FileNotFoundException: Report_9893.dat (The system cannot find the file specified)
+exception.StudentGradingException
+	at Assignment6/util.FileIO.gradeReader(FileIO.java:110)
+	at Assignment6/Assignment6.StudentAPIImpl.printStatistics(StudentAPIImpl.java:23)
+	at Assignment6/driver.Driver3.main(Driver3.java:89)
+StudentGradingException [error number: 1, error message: java.io.FileNotFoundException: Report_9893.dat (The system cannot find the file specified)
+exception.StudentGradingException
+
+Enter a SID or q to quit: 5678
+StudentGradingException [error number: 1, error message: java.io.FileNotFoundException: Report_5678.dat (The system cannot find the file specified)
+exception.StudentGradingException
+	at Assignment6/util.FileIO.gradeReader(FileIO.java:110)
+	at Assignment6/Assignment6.StudentAPIImpl.printStatistics(StudentAPIImpl.java:23)
+	at Assignment6/driver.Driver3.main(Driver3.java:89)
+StudentGradingException [error number: 1, error message: java.io.FileNotFoundException: Report_5678.dat (The system cannot find the file specified)
+exception.StudentGradingException
+
+Enter a SID or q to quit: q
+Exited!
+
+

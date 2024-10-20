@@ -1,0 +1,130 @@
+Student name: Y Nhi Tran
+Class and Section: CIS 36A - 13Z
+Assignment 2 - Part 1
+Due Date: Mon Feb 6, 2023 11:59pm
+Date Submitted: 02/04/2023
+
+<Part 1>
+Personal Information Class
+----------------------------------------------------------
+Test run 1
+
+This program will ask you to enter 3 people's information.
+
+What is your name? Ann Nguyen
+What is your address? 123 A St., City A, CA 12345
+How old are you? -20
+Error! You entered negative age.
+How old are you? twenty
+ERROR! twenty is invalid value!
+How old are you? 20
+Enter your 10-digit phone number: 123-456-7890
+
+What is your name? Bitter Tran
+What is your address? 456 B Ave, City B, CA 12346
+How old are you? 23
+Enter your 10-digit phone number: 1234567898
+
+What is your name? Cian Lee
+What is your address? 789 C Rd., City C, CA, 12347
+How old are you? 50
+Enter your 10-digit phone number: 12345678
+Error! You were not entered 10-digit phone number.
+Enter your 10-digit phone number: 1234567809
+
+Name: Ann Nguyen
+Address: 123 A St., City A, CA 12345
+Age: 20
+Phone Number: 123-456-7890
+
+Name: Bitter Tran
+Address: 456 B Ave, City B, CA 12346
+Age: 23
+Phone Number: (123) 456-7898
+
+Name: Cian Lee
+Address: 789 C Rd., City C, CA, 12347
+Age: 50
+Phone Number: (123) 456-7809
+
+
+---------------------------------------------------------
+
+Test run 2 (with random string of name and address field, it means it will show exactly what user entered)
+This program will ask you to enter 3 people's information.
+
+What is your name? abc def ghi
+What is your address? 123 asd asd, cbh 12345
+How old are you? asd
+ERROR! asd is invalid value!
+How old are you? 20
+Enter your 10-digit phone number: 0123456789
+
+What is your name? adja zcsz sdgds;,;.'/o[](){}
+What is your address? sdvfd, sdvj ,sdfjh 12549882
+How old are you? -9
+Error! You entered negative age.
+How old are you? 20
+Enter your 10-digit phone number: 4567891230
+
+What is your name? ijnqowie786778vf88 87878 xdjbj
+What is your address? 0147852369+-*/.qwertyuiop asdfghjkl zxcvbnm,./;':"<>?_+{}|\][
+How old are you? 99
+Enter your 10-digit phone number: 12345678901
+Error! You were not entered 10-digit phone number.
+Enter your 10-digit phone number: 123
+Error! You were not entered 10-digit phone number.
+Enter your 10-digit phone number: 1234567891
+
+Name: abc def ghi
+Address: 123 asd asd, cbh 12345
+Age: 20
+Phone Number: (012) 345-6789
+
+Name: adja zcsz sdgds;,;.'/o[](){}
+Address: sdvfd, sdvj ,sdfjh 12549882
+Age: 20
+Phone Number: (456) 789-1230
+
+Name: ijnqowie786778vf88 87878 xdjbj
+Address: 0147852369+-*/.qwertyuiop asdfghjkl zxcvbnm,./;':"<>?_+{}|\][
+Age: 99
+Phone Number: (123) 456-7891
+
+
+
+---------------------------------------------------------
+Test run 3
+This program will ask you to enter 3 people's information.
+
+What is your name? Van
+What is your address? 123 A St., CA 98989
+How old are you? 54
+Enter your 10-digit phone number: 0123456789
+
+What is your name? Ann
+What is your address? 
+How old are you? 4568973210
+ERROR! 4568973210 is invalid value!
+How old are you? 50
+Enter your 10-digit phone number: 1456879230
+
+What is your name? Becca
+What is your address? Reyen, CA 12345
+How old are you? 99
+Enter your 10-digit phone number: 1234569870
+
+Name: Van
+Address: 123 A St., CA 98989
+Age: 54
+Phone Number: (012) 345-6789
+
+Name: Ann
+Address: 
+Age: 50
+Phone Number: (145) 687-9230
+
+Name: Becca
+Address: Reyen, CA 12345
+Age: 99
+Phone Number: (123) 456-9870

@@ -1,0 +1,37 @@
+Student name: Y Nhi Tran
+Class and Section: CIS 36A - 13Z
+Assignment 1
+Due Date: Mon Jan 23, 2023 11:59pm
+Date Submitted: 01/18/2023
+
+<Part 2>
+Pg. 239 Problem 6.22 (Approximate the square root)
+-------------------------------------------------
+Output 1
+Enter an integer or q to quit: a
+ERROR! a is invalid value!
+
+Enter an integer or q to quit: -9
+Error! Please enter a positive number.
+
+Enter an integer or q to quit: 16
+The approximate square root of 16.0 is: 4.000000000000051
+
+Enter an integer or q to quit: 64
+The approximate square root of 64.0 is: 8.00000000000017
+
+Enter an integer or q to quit: 100
+The approximate square root of 100.0 is: 10.000000000139897
+
+Enter an integer or q to quit: 82
+The approximate square root of 82.0 is: 9.055385138145926
+
+Enter an integer or q to quit: q
+Exiting....
+
+Output 2
+Enter an integer or q to quit: 15
+The approximate square root of 15.0 is: 3.872983346207433
+
+Enter an integer or q to quit: Q
+Exiting....

@@ -1,0 +1,18 @@
+/*
+Student name: Y Nhi Tran
+Class and Section: CIS 36A - 13Z
+Assignment 4 - Exercise 1 - Part 1
+Due Date: Mon Mar 13, 2023 11:59pm
+Date Submitted: 03/07/2023
+*/
+
+
+Test run
+
+Set annual interest rate to 4%, then calculate the monthly interest
+Saver1: 2006.6666666666667
+Saver2: 3010.0
+Set annual interest rate to 5%, then calculate the monthly interest
+Saver1: 2015.0277777777778
+Saver2: 3022.5416666666665
+

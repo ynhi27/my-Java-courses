@@ -1,0 +1,34 @@
+/*
+Student name: Y Nhi Tran
+Class and Section: CIS 36A - 13Z
+Assignment 4 - Exercise 1 - Part 2
+Due Date: Mon Mar 13, 2023 11:59pm
+Date Submitted: 03/07/2023
+*/
+
+
+Test run
+
+SpecialSavings part:
+---First account---
+Account infomation: 
+Account number: 123456
+Balance: $3010.0
+Date created: Tue Mar 07 21:16:39 PST 2023
+
+Account infomation: 
+Account number: 123456
+Balance: $8036.7
+Date created: Tue Mar 07 21:16:39 PST 2023
+
+---Second account---
+Account infomation: 
+Account number: 987654
+Balance: $4013.33
+Date created: Tue Mar 07 21:16:39 PST 2023
+
+Account infomation: 
+Account number: 987654
+Balance: $9043.38
+Date created: Tue Mar 07 21:16:39 PST 2023
+
